@@ -16,7 +16,7 @@ const Layout: FC = ({ children }) => {
       <div
         id="root"
         className="relative z-10"
-        // TODO: スクロールバーの色を変える。ヘッダーと被らないようにする
+        // TODO: #3 スクロールバーの色を変える
         // className="relative h-screen scrollbar-thin scrollbar-track-gray scrollbar-thumb-main scrollbar-thumb-rounded-full"
       >
         <Header />
